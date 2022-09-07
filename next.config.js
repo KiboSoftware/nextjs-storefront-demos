@@ -4,6 +4,9 @@ const LOCATION_COOKIE = 'kibo_purchase_location'
 const DEFAULT_WISHLIST_NAME = 'default-wishlist'
 
 module.exports = {
+  env: {
+    KIBO_API_HOST: 't26507-s41308.sandbox.mozu.com',
+  },
   reactStrictMode: true,
   i18n,
   images: {
