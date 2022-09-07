@@ -2,9 +2,11 @@
 const { i18n } = require('./next-i18next.config')
 const LOCATION_COOKIE = 'kibo_purchase_location'
 const DEFAULT_WISHLIST_NAME = 'default-wishlist'
-process.env.KIBO_API_HOST='t29927-s49817.sandbox.mozu.com';
 
 module.exports = {
+  env: {
+    KIBO_API_HOST: 't29927-s49817.sandbox.mozu.com',
+  },
   reactStrictMode: true,
   i18n,
   images: {
