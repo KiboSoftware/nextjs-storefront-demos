@@ -51,7 +51,7 @@
     "react-material-ui-carousel": "^3.4.2",
     "react-query": "^3.34.0",
     "react-zoom-pan-pinch": "^2.1.3",
-    "sharp": "^0.30.0",
+    "sharp": "^0.35.4",
     "storybook-addon-next-router": "^4.0.0",
     "yup": "^0.32.11"
   },
