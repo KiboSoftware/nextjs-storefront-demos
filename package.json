@@ -26,7 +26,7 @@
     "@emotion/react": "latest",
     "@emotion/server": "latest",
     "@emotion/styled": "latest",
-    "@graphql-codegen/cli": "^2.3.0",
+    "@graphql-codegen/cli": "^2.16.5",
     "@hookform/resolvers": "^2.8.8",
     "@kibocommerce/graphql-client": "1.0.3-beta.10",
     "@mui/icons-material": "^5.4.4",
